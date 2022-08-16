@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+    background-color: #0c840c;
+    color: rgb(230, 206, 206);
+}
+h1,
+h2 {
+    text-align: center;
+    color: #b4b5c2;
+    border-radius: 20px;
+    background-color: rgb(14, 6, 83);
+}
+section {
+    background-color: #f2f2f234;
+    border-radius: 30px;
+}
+p{
+    padding: 20px;
+    border-bottom: 1px solid #040951;
+    border-top: 1px solid #e2e2e6;
+}
+ul{
+    padding: 50px;
+}
